@@ -1,6 +1,6 @@
-* [Mastodon: @maglnet@meteo.social](https://meteo.social/@maglnet)
-* [Twitter: @maglnet](https://twitter.com/maglnet)
-* [Web: https://magl.net](https://magl.net)
+* Mastodon: [@maglnet@meteo.social](https://meteo.social/@maglnet)
+* Twitter: [@maglnet](https://twitter.com/maglnet)
+* Web: [https://magl.net](https://magl.net)
 
 <!--
 **maglnet/maglnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
